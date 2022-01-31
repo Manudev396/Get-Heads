@@ -1,0 +1,71 @@
+label {
+    display: block;
+}
+
+
+/* body {
+    background-color: #008FCC;
+} */
+
+.dataforminput {
+    display: block;
+    width: 85%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+.dataform {
+    margin-top: 50px;
+    margin-right: 400px;
+    margin-bottom: 50px;
+    margin-left: 400px;
+    padding-left: 80px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #006597;
+}
+
+.dataformbutton {
+    margin-left: 200px;
+}
+
+
+/* .profilepic {
+    color: #006597;
+} */
+
+.profilepic::-webkit-file-upload-button {
+    visibility: hidden;
+}
+
+.profilepic {
+    content: 'Select some files';
+    display: inline-block;
+    background: linear-gradient(top, #f9f9f9, #e3e3e3);
+    border: 1px solid #999;
+    border-radius: 3px;
+    padding: 5px 8px;
+    outline: none;
+    color: black;
+    white-space: nowrap;
+    /* -webkit-user-select: none; */
+    cursor: pointer;
+    /* //text-shadow: 1px 1px #fff; */
+    font-weight: 700;
+    font-size: 10pt;
+}
+
+.profilepic:hover::before {
+    border-color: black;
+}
+
+.profilepic:active::before {
+    background: -webkit-linear-gradient(top, #e3e3e3, #f9f9f9);
+}
+
+
+/* .profilepic:hover,
+.profilepic:active {
+    cursor: pointer;
+} */

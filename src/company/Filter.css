@@ -1,0 +1,37 @@
+.sort {
+    padding: 30px;
+    width: 40%;
+    height: 19cm;
+    margin-left: 440px;
+    margin-top: 60px;
+    background: radial-gradient( ellipse at left bottom, rgba(22, 24, 47, 1) 0%, rgba(38, 20, 72, 0.9) 59%, rgba(17, 27, 75, 0.9) 100%);
+    box-shadow: 30px 50px 70px -20px rgba(0, 0, 0, 0.8);
+}
+
+.filterque {
+    text-align: center;
+    font-size: .9cm;
+    color: hotpink;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: black;
+}
+
+.new {
+    font-size: .6cm;
+    color: rgb(252, 157, 69);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.sortbut {
+    font-size: .5cm;
+}
+
+.sorting {
+    color: cornsilk;
+    font-family: monospace;
+    font-size: .7cm;
+}
+
+.body {
+    min-height: 130vh;
+}

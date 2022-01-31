@@ -1,0 +1,48 @@
+/* .home {
+    background-color: none;
+} */
+
+.head {
+    font-size: .7cm;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: .6em;
+}
+
+.jobbox {
+    text-align: center;
+}
+
+.hed {
+    color: cyan;
+    font-size: .7cm;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: .6em;
+    background-color: rgb(0, 0, 0);
+}
+
+.info {
+    font-size: .8cm;
+    font-weight: bolder;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: .6em;
+    color: rgb(173, 22, 22);
+}
+
+.infosys {
+    padding: .8em;
+}
+
+.inter {
+    padding: .8em;
+}
+.imagezoom{
+    transition: transform .3s;
+    margin-left: 145px;
+}
+.imagezoom:hover{
+    -ms-transform: scale(1.1); 
+  -webkit-transform: scale(1.1); 
+  transform: scale(1.1); 
+}

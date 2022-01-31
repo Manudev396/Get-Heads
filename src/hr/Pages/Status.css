@@ -1,0 +1,44 @@
+.helo {
+    color: rgb(142, 17, 226);
+    text-align: center;
+   font-family: Inconsolata;
+   font-weight: bolder;
+   
+}
+
+.status {
+    /* background: url("https://images.indianexpress.com/2021/02/cyber1.jpg"); */
+    width: 100%;
+    height: 720px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-color: white; */
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+}
+
+td,
+th {
+    width: 500px;
+    height: 55px;
+    /* background-color: rgb(107, 102, 102); */
+}
+
+.stat {
+    background-color: rgb(107, 102, 102);
+    margin: 1px 520px;
+    padding: 30px;
+    text-align: center;
+}
+
+.statusbox {
+    text-align: center;
+    /* size: 20px; */
+    font-size: 20px;
+    /* margin: 0px 600px; */
+    /* background: blue;  */
+}

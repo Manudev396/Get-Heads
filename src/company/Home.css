@@ -1,0 +1,35 @@
+.candidate {
+    font-size: .4cm;
+}
+
+.box {
+    background-color: gray;
+    width: 40%;
+    height: 50%;
+    align-self: center;
+    box-shadow: 0px 5px 10px rgb(41, 41, 41);
+    color: crimson;
+}
+
+.box h1 {
+    padding: 20px;
+}
+
+.heads {
+    background-color: rgb(11, 125, 192);
+    height: 1.3cm;
+}
+
+.filter {
+    float: right;
+    margin-right: 230px;
+    font-size: .8cm;
+    background-color: rgb(24, 23, 23);
+    width: .8cm;
+    cursor: pointer;
+    height: 1.1cm;
+}
+.back{
+text-align: center;
+
+}

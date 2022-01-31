@@ -1,0 +1,15 @@
+.background {
+    /* background-color: #008FCC; */
+    display: inline-block;
+    padding-bottom: 30px;
+    width: -webkit-fill-available;
+}
+
+.title {
+    font-size: 35px;
+    height: 20px;
+    font-weight: 900;
+    margin-left: 600px;
+    font-family: 'Benne', serif;
+    color: black;
+}

@@ -1,0 +1,234 @@
+/* *{
+    margin: 0;
+    padding: 0;
+  }  temporyly for the purpose of login page left texts
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.page {
+    height: 180vh;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.container {
+    height: 280px;
+    width: 240px;
+    border-radius: 10px;
+}
+
+.heading {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: .8rem;
+    font-weight: bold;
+}
+
+.img-holder {
+    margin: auto;
+    width: 150px;
+    height: 150px;
+    border: 3px black solid;
+    border-radius: 5px;
+    margin-top: 1rem;
+}
+
+.img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+
+#input[type="file"] {
+    display: none;
+}
+
+.label {
+    width: 100%;
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+}
+
+.image-upload {
+    margin: auto;
+    width: 180px;
+    height: 35px;
+    color: cyan;
+    border-radius: 10px;
+    background-color: rgb(3, 8, 8);
+    text-align: center;
+    cursor: pointer;
+}
+
+.lab {
+    font-size: .6cm;
+    margin-left: -9cm;
+    font-weight: bolder;
+}
+
+.input {
+    width: 10cm;
+    height: .8cm;
+    border-radius: 5px;
+    margin-left: -9cm;
+}
+
+.but {
+    width: 2cm;
+    height: 1cm;
+    color: cyan;
+    background-color: grey;
+    font-size: .6cm;
+    margin-left: -5.5cm;
+    border-radius: 5px;
+}
+
+.file {
+    margin-left: -340px;
+    background-color: rgb(94, 94, 94);
+    color: cyan;
+    padding: 11px;
+    border-radius: 19px;
+}
+
+.doc {
+    width: 7cm;
+    padding: 7px;
+    background-color: grey;
+}
+
+.upload {
+    width: 70px;
+    height: 30px;
+    margin-top: .5cm;
+    font-size: .6cm;
+    border-radius: .8cm;
+    cursor: pointer;
+} */
+
+
+/* .bodybackground {
+    background-color: white;
+} */
+
+.page {
+    height: 180vh;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.grids {
+    align-items: center;
+    text-align: center;
+    /* background-color: white; */
+    height: 1400px;
+}
+
+.img {
+    width: 300px;
+    height: 250px;
+    object-fit: cover;
+    margin-left: 90px
+}
+
+.img-holder {
+    margin: auto;
+    width: 150px;
+    height: 150px;
+    border: 3px black solid;
+    border-radius: 5px;
+    margin-top: 1rem;
+   
+}
+
+.image-upload {
+    margin: auto;
+    width: 180px;
+    height: 35px;
+    color: cyan;
+    border-radius: 10px;
+    background-color: rgb(3, 8, 8);
+    text-align: center;
+    cursor: pointer;
+}
+
+#input[type="file"] {
+    display: none;
+}
+
+.form {
+    /* background-color: white; */
+    text-align: left;
+    margin-left: 80px;
+   
+}
+
+.lab {
+    font-size: .6cm;
+    margin-left: -12cm;
+    font-weight: bolder;
+    text-align: left;
+    padding-left: 70px;
+    margin-top: 30px;
+    /* background-color: rgb(47, 146, 240); */
+    width: 13cm;
+    border-radius: 1cm;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background: radial-gradient( ellipse at left bottom, rgb(19, 58, 102) 14%, rgba(15, 118, 167, 0.9) 59%, rgba(6, 197, 255, 0.9) 100%);
+box-shadow: 0px 5px 15px  #525250;
+}
+
+.file {
+    margin-left: -400px;
+    background-color: rgb(94, 94, 94);
+    color: cyan;
+    padding: 11px;
+    border-radius: 19px;
+    float: left;
+}
+
+.doc {
+    width: 7cm;
+    padding: 10px;
+    background-color: grey;
+}
+
+.upload {
+    width: 70px;
+    height: 30px;
+    margin-top: .5cm;
+    font-size: .6cm;
+    border-radius: .8cm;
+    cursor: pointer;
+}
+
+.but {
+    width: 3cm;
+    height: 1.3cm;
+    color: rgb(255, 30, 0);
+    background-color: grey;
+    font-size: .6cm;
+    font-weight: bolder;
+    margin-left: .8cm;
+    border-radius: 5px;
+    margin-top: -6px;
+}
+
+.but:hover{
+    background-color: rgb(2, 76, 212);
+}
+.label {
+    width: 100%;
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+}
+.container{
+    margin-left: 100px;
+}

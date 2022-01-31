@@ -1,0 +1,35 @@
+.headingsnew{
+    text-align: center;
+    margin-top: 83px;
+    background-color: rgb(225, 110, 240);
+    color: black;
+    padding: 2px;
+    
+}
+.namesof{
+color: blanchedalmond;
+padding: 30px;
+width: 30%;
+height: 10cm;
+margin-left: 490px;
+margin-top: 60px;
+text-align:left;
+background: radial-gradient(
+      ellipse at left bottom,
+      rgb(39, 22, 47) 0%,
+      rgba(80, 14, 97, 0.9) 59%,
+      rgba(119, 5, 148, 0.9) 100%
+    );
+    box-shadow: 30px 50px 70px -20px rgba(0, 0, 0, 0.8);
+}
+.strut{
+min-height: 120vh;
+}
+.lists{
+    font-family: monospace;
+}
+.btnlist{
+    width: 3cm;
+    float: right;
+    margin-right: 600px;
+}

@@ -1,0 +1,35 @@
+.question {
+    font-size: .8cm;
+    font-family: Inconsolata;
+    background-color: chocolate;
+    margin-top: 30px;
+    box-shadow: 0px 5px 10px 0px black;
+    border-radius: 10px;
+}
+
+.que {
+    font-size: .6cm;
+    color: rgb(9, 168, 231);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.new {
+    font-size: .9cm;
+    background-color: rgb(252, 233, 206);
+    margin-left: 1cm;
+    height: .8cm;
+}
+
+.box {
+    width: 70px;
+    height: .6cm;
+}
+
+.submit {
+    font-size: .6cm;
+    margin-left: 573px;
+    border-radius: 10px;
+    width: 2.5cm;
+    background-color: cyan;
+    cursor: pointer;
+}
